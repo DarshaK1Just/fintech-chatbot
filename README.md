@@ -2,6 +2,8 @@
 
 A production-ready Streamlit application that serves as an intelligent Financial Chatbot, allowing users to query financial data from CSV files using natural language queries powered by Together AI and LangChain.
 
+Chatbot Link : https://fintech-chatbot-h8urbdsdaub9fcxzzlr9x5.streamlit.app/
+
 ## ✨ Features
 
 - 💬 **Natural Language Interface**: Ask questions about financial data in plain English
