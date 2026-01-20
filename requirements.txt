@@ -6,3 +6,4 @@ langchain-community>=0.0.20
 langchain-experimental>=0.0.50
 openai>=1.0.0
 python-dotenv>=1.0.0
+tabulate
